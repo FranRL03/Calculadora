@@ -23,7 +23,7 @@ public class Principal {
 				System.out.println("Número 2");
 				num2=Leer.datoDouble();
 				
-				res= num+num2;
+				res = num+num2;
 				
 				System.out.println(num + " + " + num2 + " = " + res);
 				
