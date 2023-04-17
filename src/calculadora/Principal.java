@@ -28,7 +28,20 @@ public class Principal {
 				System.out.println(num + " + " + num2 + " = " + res);
 				
 				break;
-			
+				
+			case 2: 
+				
+				System.out.println("Número 1");
+				num=Leer.datoDouble();
+				
+				System.out.println("Número 2");
+				num2=Leer.datoDouble();
+				
+				res = num-num2;
+				
+				System.out.println(num + " - " + num2 + " = " + res);
+				
+				break;
 				
 		
 		}
