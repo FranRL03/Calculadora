@@ -26,6 +26,8 @@ public class Principal {
 				res= num+num2;
 				
 				System.out.println(num + " + " + num2 + " = " + res);
+				
+				break;
 			
 				
 		
